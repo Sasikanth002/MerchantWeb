@@ -1,0 +1,123 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(201, 199, 198);
+   
+}
+*{
+    margin: 0px;
+    padding: 2px;
+}
+header{
+    display: flex;
+    margin: 10px;
+    font-family: serif;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+  
+}
+#Fibutton{
+    margin-left: 76%;
+    margin-top: 30px;
+}
+
+hr{
+    margin: 10px;
+    border-top: 5px solid black;
+}
+#rowrg{
+    display: flex;
+    
+}
+.row1{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 40px
+
+    ;
+}
+#rowchnl{
+    display: flex;
+}
+.row2{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 40px
+    ;
+}
+select {
+    width: 165px;
+  }
+
+  select option {
+    width: 165px;
+      }
+#busslt{
+    display: flex;
+}
+.row3{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 40px
+    ;
+}.row3 button{
+    width: 80px;
+    margin-left: 10px;
+    background-color: rgb(46, 91, 160);
+    color: white;
+    border-radius: 5px;
+    padding: 7px;
+}
+.mainf{
+background-color: white;
+border-radius: 8px;
+margin: 15px;
+padding: 15px;
+}
+#row4{
+    margin-left: 15px;
+}
+#lastb{
+    margin: 15px;
+    display: flex;
+    text-align: center;
+    
+}
+#bar1{
+    border: 1px solid black;
+    width: 400px;
+    padding: 10px;
+    border-radius: 5px;
+   
+}
+#bar2{
+    border: 1px solid black;
+    width: 700px;
+    padding-right: 100px;
+    padding: 10px;
+    border-radius: 5px;
+}
+#bar1:hover{
+    background-color: white;
+    cursor: pointer;
+    border-bottom: black;
+
+}
+#bar2:hover{
+    background-color: white;
+    cursor: pointer;
+    border-bottom: black;
+   
+}
+footer{
+    background-color: black;
+    color: white;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 5px;
+}
+#foot{
+    position:relative;
+    bottom:0;
+}
